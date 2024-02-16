@@ -1,0 +1,10 @@
+https://www.google.com/search?hl=en&q=test
+
+
+protocol (https://)
+Domain (google)
+Subdomain (www.)
+Top-level domain (.com)
+Endpoint (/search?hl=en&q=test)
+Query parameter (?hl=en, &q=test)
+Query string (?hl=en&q=test)

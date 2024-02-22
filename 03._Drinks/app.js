@@ -121,7 +121,7 @@ app.delete("/drinks/:id", (req, res) => {
         
     } catch (error) {
         console.log(error);
-        return res.status(500).send({ data: "An error occurred. Object not updated."})
+        return res.status(500).send({ data: "An error occurred. Object not deleted."})
     }
 });
 
